@@ -1,0 +1,30 @@
+.user{
+    display: flex;
+    background-color: #eeeeff;
+    width: 450px;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 5px;
+}
+.avatar{
+    width: 25%;
+    border-radius: 100px 100px;
+}
+.avatar_img{
+    width: 100px;
+    border-radius: 50px;
+}
+.text{
+    width: 75%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.row{
+    display: flex;
+    width: 100%;
+}
+.column{
+    width: 50%;
+}
